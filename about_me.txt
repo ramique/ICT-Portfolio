@@ -1,0 +1,19 @@
+                                                    
+                                                   About me
+
+I’m a passionate Software Engineering student at Mohammad Ali Jinnah University, currently expanding my practical expertise through a Higher Diploma in Software Engineering at Aptech.
+
+I specialize in building modern web and application solutions and enjoy transforming ideas into real, working products. My experience includes working with technologies such as Flutter, .Net core, Laravel, JavaScript, MySQL, SSMS, HTML, CSS, Bootstrap, and other modern development tools. I focus on writing clean, scalable code and creating applications that are efficient, user-friendly, and impactful.
+
+What drives me the most is solving problems and continuously learning. Technology evolves fast, and I make sure I grow with it by exploring new frameworks, tools, and development practices.
+
+I believe great software is not just built with code, but with creativity, logic, and attention to detail.
+
+What I bring : 
+ • Web & Application Development
+ • Problem Solving Mindset
+ • Clean & Scalable Code
+ • Continuous Learning
+
+Career Goal:
+ To become a highly skilled Software Engineer and contribute to building innovative digital products that make a real difference.
